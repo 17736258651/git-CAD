@@ -1,0 +1,164 @@
+.banner{
+    padding-top: 1rem;
+    width: 100%;
+    position: relative;
+    height: 4rem;
+}
+.banner img{
+    max-width: 19.9rem;
+    max-height: 100%;
+        position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%,0);
+}
+.biWord {
+    font-size: 0.3rem;
+        position: absolute;
+        color: #fff;
+    right: 6%;
+    top: 46%;
+}
+.product-tab a {
+    width: 47%;
+    padding-top: 20px;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+}
+.product-icon {
+    height: 0.5rem;
+    width: 0.5rem;
+    background-size: 100%;
+}
+.product-tab a p {
+    font-size: 0.14rem;
+    padding-bottom: 0.25rem;
+    padding-top: 0.05px;
+}
+.center a img{
+    width: 0.8rem;
+    height: 0.8rem;
+}
+.product-tab-con {
+    position: relative;
+    height: auto;
+    width: 100%;
+    background: #23262a;
+}
+.product-pic {
+    width: 80%;
+    padding-left: 10%;
+    padding-top: 10%;
+    text-align: center;
+}
+.product-pic img{
+    width: 100%;
+}
+.product-word {
+    color: #fff;
+    width: 100%;
+    padding-top: 0.5rem;
+}
+.product-word h4 {
+    font-size: 0.3rem;
+    text-align: center;
+}
+.product-word p {
+    font-size: 0.12rem;
+    line-height: 1.6;
+    color: #b6b6b7;
+    padding: 0 0.5rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.5rem;
+}
+.tab-triangle {
+    content: '';
+    width: 1.18rem;
+    height: 1.08rem;
+    background: url(../images/images2/icon12.png) no-repeat;
+    position: absolute;
+    top: -0.08rem;
+}
+.gray{
+    padding-bottom: 0.5rem;
+    height: auto;
+    background: #f0f2f5;
+}
+.h2-tit {
+    background: #f0f2f5;
+    color: #23262a;
+    text-align: center;
+    font-size: 0.35rem;
+    padding: 0.25rem 0;
+    font-weight: normal;
+}
+.product-inside-list {
+    position: relative;
+    background-color: #fff;
+    line-height: 0.8rem;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 0.08rem;
+}
+.product-list-tit{
+        padding-left: 0.2rem;
+    font-size: 0.16rem;
+}
+.product-list-tit i{
+    display: inline-block;
+    color: #bfbfbf;
+    font-size: 0.16rem;
+    position: absolute;
+    right: 0.14rem;
+    top: 0rem;
+}
+.product-list-con {
+    padding-left: 0.2rem;
+    z-index: 99;
+    background: #fafafa;
+}
+.product-list-con a{
+    display: inline-block;
+    padding-top: 0.2rem;
+    overflow: hidden;
+    width: 46%;
+    font-size: 0.14rem;
+    color: #9a9a9a;
+}
+.product-download-center{
+    width: 80%;
+    margin: 0 auto;
+}
+.product-download-th p{
+    padding-left: 0.2rem;
+    line-height: 0.8rem;
+    font-size: 0.25rem;
+    border:0.01rem solid #dededf;
+}
+.product-download-th p.active{
+    background: #f3f3f3;
+    color: #087cd8;
+}
+.div-download a {
+    font-size: 0.14rem;
+    display: inline-block;
+    width: 1.8rem;
+    height: 0.32rem;
+    line-height: 0.3rem;
+    border: 0.01rem solid #90c4ed;
+    color: #1296db;
+    text-align: center;
+}
+.product-td {
+        background: #f3f3f3;
+    border: 0.01rem solid #dededf;
+    border-bottom: none;
+    padding: 0.3rem 0.2rem;
+    font-size: 0.12rem;
+}
+.pdcon {
+    color: #989898;
+    font-size: 0.14rem;
+    line-height: 0.4rem;
+}
